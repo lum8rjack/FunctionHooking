@@ -13,3 +13,7 @@ Testing function hooking using Microsoft Detours and signature scanning. The tes
 
 More details can be found here: https://lum8rjack.github.io/posts/function-hooking-part-1/
 
+## PasswordSafe
+This directory contains the code that is used to hook the [Password Safe](https://pwsafe.org/) application. It uses the same techniques as the code from the testing directory. The DLL will hook the "CheckPasskey" function in order to capture the password that unlocks the database. 
+
+More details can be found here: https://lum8rjack.github.io/posts/function-hooking-part-2/
