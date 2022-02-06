@@ -19,7 +19,7 @@ This directory contains the code that is used to hook the [Password Safe](https:
 More details can be found here: https://lum8rjack.github.io/posts/function-hooking-part-2/
 
 ## Part3 - Frida
-This directory contains 
+This directory contains the Python and JavaScript code used with Frida to  hook the [Password Safe](https://pwsafe.org/) application. The code performs the same steps as Part 2 but uses Frida for the hooking.
 
 More details can be found here: https://lum8rjack.github.io/posts/function-hooking-part-3/
 
